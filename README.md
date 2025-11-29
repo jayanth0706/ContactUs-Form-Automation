@@ -2,7 +2,7 @@
 This project is an end-to-end **Selenium Automation Framework** built using **Java, TestNG, Page Object Model (POM), Apache POI, and Allure Reporting**.  
 It automates the *Contact Form* of **NS Constructions**, validates fields, handles alerts, performs data-driven testing, and generates detailed reports.
 Check out the full project walkthrough on LinkedIn:
-👉 🔗 Demo: [LinkedIn Post ↗] (https://www.linkedin.com/posts/jayanth0706_happy-to-share-my-new-selenium-automation-activity-7400437277526679552-Th7o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5CO-oBKqXjdv5w4LD6ytcFmG6wpfwhdOg)
+👉 **Demo:** [LinkedIn Post ↗](https://www.linkedin.com/posts/jayanth0706_happy-to-share-my-new-selenium-automation-activity-7400437277526679552-Th7o)
 
 ## ✔️ Key Features
 - 🧩 **Page Object Model (POM)** for scalable and maintainable architecture  
