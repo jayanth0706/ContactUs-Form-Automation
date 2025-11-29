@@ -20,24 +20,25 @@ It automates the *Contact Form* of **NS Constructions**, validates fields, handl
 selenium-contact-automation/
 │
 ├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── base/
-│ │ │ ├── pages/
-│ │ │ ├── utils/
-│ │ │ └── listeners/
-│ │ └── resources/
-│ │ └── TestData.xlsx
-│ │
-│ ├── test/
-│ │ ├── java/
-│ │ │ └── tests/
-│ │ └── resources/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── base/
+│   │   │   ├── pages/
+│   │   │   ├── utils/
+│   │   │   └── listeners/
+│   │   └── resources/
+│   │       └── TestData.xlsx
+│   │
+│   ├── test/
+│   │   ├── java/
+│   │   │   └── tests/
+│   │   └── resources/
 │
 ├── pom.xml
 ├── testng.xml
 ├── README.md
 └── .gitignore
+
 
 ## ▶️ How to Run the Tests
 ### 1️⃣ Clone the repository
@@ -71,6 +72,9 @@ allure serve allure-results
 
 ## 📧 Contact
 Feel free to connect for collaboration or queries:
-**Pavanagundla Jayanth **
-**Software Test Engineer ** 
-**LinkedIn:** https:[Jayanth0706](https://linkedin.com/in/jayanth0706)
+
+**Pavanagundla Jayanth**  
+**Software Test Engineer**  
+
+🔗 **LinkedIn:** [Jayanth0706](https://linkedin.com/in/jayanth0706)
+
