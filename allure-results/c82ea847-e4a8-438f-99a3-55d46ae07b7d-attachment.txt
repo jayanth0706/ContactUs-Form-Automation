@@ -1,0 +1,4 @@
+❌ Email Validation Failed
+Entered Value: sai@gmail
+Rule: Must be a valid email format (e.g., name@gmail.com)
+

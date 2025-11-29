@@ -1,0 +1,4 @@
+❌ Full Name Validation Failed
+Entered Value: Pavan123
+Rule: Only alphabets and spaces allowed.
+

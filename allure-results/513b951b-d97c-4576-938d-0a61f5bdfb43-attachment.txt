@@ -1,0 +1,6 @@
+java.lang.AssertionError: One or more validations FAILED.
+
+❌ Email Validation Failed
+Entered Value: kiran@gmail.comabc
+Rule: Must be a valid email format (e.g., name@gmail.com)
+

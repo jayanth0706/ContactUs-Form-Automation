@@ -1,0 +1,10 @@
+java.lang.AssertionError: One or more validations FAILED.
+
+❌ Full Name Validation Failed
+Entered Value: Sita_R
+Rule: Only alphabets and spaces allowed.
+
+❌ Email Validation Failed
+Entered Value: sita_r@gmail.com
+Rule: Must be a valid email format (e.g., name@gmail.com)
+

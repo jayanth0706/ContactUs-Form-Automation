@@ -1,0 +1,4 @@
+❌ Phone Number Validation Failed
+Entered Value: 12345
+Rule: Only digits allowed & must be exactly 10 digits.
+
