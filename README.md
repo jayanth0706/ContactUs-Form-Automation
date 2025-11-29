@@ -17,6 +17,7 @@ It automates the *Contact Form* of **NS Constructions**, validates fields, handl
 - 🌐 Framework ready for cross-browser support
 
 ## 📁 Project Structure
+```text
 selenium-contact-automation/
 │
 ├── src/
@@ -38,7 +39,7 @@ selenium-contact-automation/
 ├── testng.xml
 ├── README.md
 └── .gitignore
-
+```
 
 ## ▶️ How to Run the Tests
 ### 1️⃣ Clone the repository
