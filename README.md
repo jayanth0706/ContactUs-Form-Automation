@@ -44,7 +44,7 @@ selenium-contact-automation/
 ## ▶️ How to Run the Tests
 ### 1️⃣ Clone the repository
 ```sh
-git clone [https://github.com/your-username/your-repo-name](https://github.com/jayanth0706/ContactUs-Form-Automation)
+git clone https://github.com/jayanth0706/ContactUs-Form-Automation
 cd ContactUs-Form-Automation
 ```
 ### 2️⃣ Install dependencies
